@@ -6,6 +6,7 @@
 - ⚡ Fun fact: Currently have grip on
                 C/C++
                 JAVA
+                Python
       Thats just a start for me looking for more and more ahead
 
 <!---
